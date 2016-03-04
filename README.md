@@ -74,6 +74,7 @@ with this module since it will be used everywhere in the next lessons.
 
   * [Numpy tutorial](https://github.com/rougier/numpy-tutorial)
   * [100 Numpy exercises](https://github.com/rougier/numpy-100)
+  * [Numpy MedKit](http://mentat.za.net/numpy/numpy_advanced_slides/)
 
 ### Scientific visualization I
 
@@ -85,6 +86,8 @@ platforms.
 **See also**:
 
   * [10 Simple rules for better figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+  * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
+  
   
 |
 
