@@ -814,6 +814,37 @@ The reason is that indentation has a semantic meaning but we'll see that later.
 
 
 
+The Jupyter notebook
+-------------------------------------------------------------------------------
+
+The [Jupyter] notebook is a web application that allows you to create and share
+documents that contain live code, equations, visualizations and explanatory
+text. Uses include (but not limited to):
+
+ * data cleaning and transformation
+ * numerical simulation
+ * statistical modeling
+ * machine learning
+
+The Jupyter notebook is not restricted to python and support for over 40
+programming languages, including those popular in Data Science such as Python,
+R, Julia and Scala.
+
+You can try it [online](https://try.jupyter.org) but you can also start a new
+one locally:
+
+```shell
+$ jupyter notebook
+```
+
+This should open a new tab in your browser (or open a new browser if it was
+closed) showing your available notebooks. There should be none, so you can
+create a new one and start typing python code.
+
+We won't explore all you can do with notebook during this course but you can
+have a look at the [nbviewer](http://nbviewer.jupyter.org) to see what can be
+done with them.
+
 
 
 Exercises
