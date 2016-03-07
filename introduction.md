@@ -841,7 +841,7 @@ This should open a new tab in your browser (or open a new browser if it was
 closed) showing your available notebooks. There should be none, so you can
 create a new one and start typing python code.
 
-We won't explore all you can do with notebook during this course but you can
+We won't explore all that you can do with notebook during this course but you can
 have a look at the [nbviewer](http://nbviewer.jupyter.org) to see what can be
 done with them.
 
