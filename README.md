@@ -116,6 +116,11 @@ scientific computing. Its different submodules correspond to different
 applications, such as interpolation, integration, optimization, image
 processing, statistics, special functions, etc.
 
+**See also**:
+
+  * [Scipy Tutorial](http://docs.scipy.org/doc/scipy/reference/tutorial/)
+  * [Numerical Analysis: Python vs Matlab](http://hyperpolyglot.org/numerical-analysis)
+
 
 ### Version control
 
@@ -145,6 +150,7 @@ This
 introduces the (modern) OpenGL API through the use of [glumpy](http://glumpy.github.io) 
 which a python library for scientific visualization that is both fast, scalable and beautiful.
 Glumpy offers an intuitive interface between numpy and modern OpenGL.
+
 
 |
 
