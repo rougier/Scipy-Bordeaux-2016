@@ -18,7 +18,7 @@ and/or sympy. We won't cover everything in this short course, but you should
 get enough information to decide if your research can benefit from Python. And
 I bet it will likely do.
 
-Also, make sure to have a look at the [awesome python](https://github.com/vinta/awesome-python), a curated list of awesome Python frameworks, libraries and software.
+Also, make sure to have a look at the [awesome python](https://github.com/vinta/awesome-python), a curated list of Python frameworks, libraries and software.
 
 |
 
