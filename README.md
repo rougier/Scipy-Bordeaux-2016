@@ -134,6 +134,12 @@ isn't just for software: books, papers, small data sets, and anything that
 changes over time or needs to be shared can and should be stored in a version
 control system.
 
+**See also**:
+
+  * [Git Book](https://git-scm.com/book/en/v2)
+  * [Git cheat sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+
+
 ### C/Python integration
 
 [Scipy Lecture Notes]. This
