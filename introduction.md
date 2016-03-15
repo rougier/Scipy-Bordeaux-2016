@@ -386,10 +386,11 @@ might be useful in some situations but we won't use them in this course.
 
 ``` python
 >>> 1 | 2   # bitwise or
->>> 1 ^ 2   # bitwise and
->>> 8 << 2	# bitwize left shift
->>> 8 >> 2	# bitwise right shift
->>> ~8	    # bitwise negation
+>>> 1 & 2   # bitwise and
+>>> 1 ^ 2   # bitwise xor
+>>> 8 << 2  # bitwise left shift
+>>> 8 >> 2  # bitwise right shift
+>>> ~8	  # bitwise negation
 ```
 
 
@@ -969,7 +970,7 @@ float('nan')
 * Transform the string "1.2" into a float?
 * Count the number of unique elements in a list?
 * Find the maximum representable integer ?
-* Express the string `"Isn't, he said"` (including quotes)?
+* Print the string `"Isn't, he said"` (including quotes)?
 * Swap the content of two variables?
 
 
