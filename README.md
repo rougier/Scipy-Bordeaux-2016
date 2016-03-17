@@ -1,4 +1,4 @@
-# Scientific Python course
+# Scientific Python course Hacked
 
 Lecture notes from the course taught at the [University of Bordeaux](http://www.u-bordeaux.com) in the academic year 2015/16 for PhD students.  
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
@@ -34,9 +34,9 @@ This course is mostly based on the teaching material kindly provided by:
 Beginner course
 -------------------------------------------------------------------------------
 
-Day 1 | Monday, March 14, 2016     |          | Day 2 | Tuesday, March 15, 2016 
+Day 1 | Monday, March 14, 2016     |          | Day 2 | Tuesday, March 15, 2016
 ----- | ---------------------------| -------- | ----- | ----------------------------------------
-09:00 | Installation & Welcome     | –––––––– |       | 
+09:00 | Installation & Welcome     | –––––––– |       |
 09:15 | [Introduction]() (part 1)  |          | 09:00 | [Computation I]() (part 1)
 10:30 | *Coffee break*             |          | 10:30 | *Coffee break & questions*
 10:45 | [Introduction]()  (part 2) |          | 10:45 | [Computation I]() (part 2)
@@ -89,14 +89,14 @@ platforms.
 
   * [10 Simple rules for better figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
   * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
-  
-  
+
+
 |
 
 Advanced course
 -------------------------------------------------------------------------------
 
-Day 1 | Thursday, March 16, 2016    |          | Day 2 | Friday, March 17, 2016 
+Day 1 | Thursday, March 16, 2016    |          | Day 2 | Friday, March 17, 2016
 ----- | --------------------------- | -------- | ----- | ----------------------------------------
 09:00 | [Computation II]() (part 1) | –––––––– | 09:00 | [C/Python integration]() (part 1)
 10:30 | *Coffee break & questions*  |          | 10:30 | *Coffee break & questions*
@@ -155,7 +155,7 @@ that you can select the appropriate one for your specific needs.
 
 This
 [lesson](http://glumpy.readthedocs.org/en/latest/tutorial/introduction.html)
-introduces the (modern) OpenGL API through the use of [glumpy](http://glumpy.github.io) 
+introduces the (modern) OpenGL API through the use of [glumpy](http://glumpy.github.io)
 which a python library for scientific visualization that is both fast, scalable and beautiful.
 Glumpy offers an intuitive interface between numpy and modern OpenGL.
 
